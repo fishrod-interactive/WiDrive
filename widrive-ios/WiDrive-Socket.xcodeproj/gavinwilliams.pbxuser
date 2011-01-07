@@ -1,0 +1,462 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* WiDrive_SocketAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {979, 482}}";
+			sepNavSelRange = "{189, 28}";
+			sepNavVisRange = "{0, 518}";
+		};
+	};
+	1D3623250D0F684500981E51 /* WiDrive_SocketAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {979, 475}}";
+			sepNavSelRange = "{327, 0}";
+			sepNavVisRange = "{0, 707}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* WiDrive-Socket */ = {
+		activeExec = 0;
+		executables = (
+			DD14675A113C42E70073513D /* WiDrive-Socket */,
+		);
+	};
+	28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {979, 3549}}";
+			sepNavSelRange = "{4109, 0}";
+			sepNavVisRange = "{1660, 1873}";
+			sepNavWindowFrame = "{{785, 4}, {880, 1174}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = DD14675A113C42E70073513D /* WiDrive-Socket */;
+		activeSDKPreference = iphoneos3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* WiDrive-Socket */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* WiDrive-Socket */,
+		);
+		breakpoints = (
+			DDE4E0B4118F2C9000BC2D90 /* WiDrive_SocketViewController.m:168 */,
+		);
+		codeSenseManager = DD14676B113C42F30073513D /* Code sense */;
+		executables = (
+			DD14675A113C42E70073513D /* WiDrive-Socket */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1262,
+					20,
+					48,
+					43,
+					43,
+					20,
+					20,
+					10,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_Comments_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					956,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1348,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 311348337;
+			PBXWorkspaceStateSaveDate = 311348337;
+		};
+		perUserProjectItems = {
+			DD33A249119A97600087926B /* PBXBookmark */ = DD33A249119A97600087926B /* PBXBookmark */;
+			DD4398B411C10972007212A7 /* PlistBookmark */ = DD4398B411C10972007212A7 /* PlistBookmark */;
+			DD4398B611C10972007212A7 /* PBXTextBookmark */ = DD4398B611C10972007212A7 /* PBXTextBookmark */;
+			DD478A6911C107790078C464 /* PBXTextBookmark */ = DD478A6911C107790078C464 /* PBXTextBookmark */;
+			DD689BDC11930649008E294F /* PBXTextBookmark */ = DD689BDC11930649008E294F /* PBXTextBookmark */;
+			DD7B31B811D8A36900116D94 /* PBXTextBookmark */ = DD7B31B811D8A36900116D94 /* PBXTextBookmark */;
+			DD7B31B911D8A36900116D94 /* PBXBookmark */ = DD7B31B911D8A36900116D94 /* PBXBookmark */;
+			DD7B31BA11D8A36900116D94 /* PBXBookmark */ = DD7B31BA11D8A36900116D94 /* PBXBookmark */;
+			DD7B31BB11D8A36900116D94 /* PBXBookmark */ = DD7B31BB11D8A36900116D94 /* PBXBookmark */;
+			DD7B31BD11D8A36900116D94 /* PBXTextBookmark */ = DD7B31BD11D8A36900116D94 /* PBXTextBookmark */;
+			DD99769411920F60003FF6C7 /* PBXTextBookmark */ = DD99769411920F60003FF6C7 /* PBXTextBookmark */;
+			DDA909EE128ECC8200EE0C10 /* PBXTextBookmark */ = DDA909EE128ECC8200EE0C10 /* PBXTextBookmark */;
+			DDA909EF128ECC8200EE0C10 /* PBXTextBookmark */ = DDA909EF128ECC8200EE0C10 /* PBXTextBookmark */;
+			DDA909F0128ECC8200EE0C10 /* PBXTextBookmark */ = DDA909F0128ECC8200EE0C10 /* PBXTextBookmark */;
+			DDA909F1128ECC8200EE0C10 /* PBXTextBookmark */ = DDA909F1128ECC8200EE0C10 /* PBXTextBookmark */;
+			DDA909F2128ECC8200EE0C10 /* PBXTextBookmark */ = DDA909F2128ECC8200EE0C10 /* PBXTextBookmark */;
+			DDB73FC41194CF680072205A /* PBXBookmark */ = DDB73FC41194CF680072205A /* PBXBookmark */;
+		};
+		sourceControlManager = DD14676A113C42F30073513D /* Source Control */;
+		userBuildSettings = {
+			OBJROOT = "$(SYMROOT)";
+			SYMROOT = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/build";
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1566, 700}}";
+			sepNavSelRange = "{365, 0}";
+			sepNavVisRange = "{0, 365}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* WiDrive_Socket_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1566, 700}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 197}";
+		};
+	};
+	8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{560, 4}, {880, 874}}";
+		};
+	};
+	DD04B6551175196F0024BDDE /* Car.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {979, 475}}";
+			sepNavSelRange = "{633, 0}";
+			sepNavVisRange = "{0, 639}";
+		};
+	};
+	DD04B6561175196F0024BDDE /* Car.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {979, 1118}}";
+			sepNavSelRange = "{813, 0}";
+			sepNavVisRange = "{758, 851}";
+			sepNavWindowFrame = "{{1920, 0}, {1920, 1200}}";
+		};
+	};
+	DD14675A113C42E70073513D /* WiDrive-Socket */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "WiDrive-Socket";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	DD14676A113C42F30073513D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = widrive;
+			};
+		};
+	};
+	DD14676B113C42F30073513D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	DD18BA4A1189106700156C3E /* steering-wheel.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{1920, 0}, {1965, 1200}}";
+		};
+	};
+	DD33A249119A97600087926B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD90D0A71190BF7A0044261B /* slider.png */;
+	};
+	DD4398B411C10972007212A7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPH/Major/WiDrive-Socket/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD4398B611C10972007212A7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDD6A535118A41C3003B54C6 /* WiDrive_SocketViewController.h */;
+		name = "WiDrive_SocketViewController.h: 26";
+		rLen = 0;
+		rLoc = 757;
+		rType = 0;
+		vrLen = 1099;
+		vrLoc = 821;
+	};
+	DD478A6911C107790078C464 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD04B6561175196F0024BDDE /* Car.m */;
+		name = "Car.m: 34";
+		rLen = 0;
+		rLoc = 813;
+		rType = 0;
+		vrLen = 897;
+		vrLoc = 35;
+	};
+	DD689B6B1192DF0C008E294F /* project.pbxproj */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.pbxproject;
+		name = project.pbxproj;
+		path = "/Users/gavinwilliams/Documents/Uni/BAIMPH/Major/WiDrive-Socket/WiDrive-Socket.xcodeproj/project.pbxproj";
+		sourceTree = "<absolute>";
+	};
+	DD689BDC11930649008E294F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD689B6B1192DF0C008E294F /* project.pbxproj */;
+		name = "project.pbxproj: 408";
+		rLen = 0;
+		rLoc = 24729;
+		rType = 0;
+		vrLen = 5166;
+		vrLoc = 0;
+	};
+	DD7B31B811D8A36900116D94 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 106";
+		rLen = 0;
+		rLoc = 4109;
+		rType = 0;
+		vrLen = 1873;
+		vrLoc = 1660;
+	};
+	DD7B31B911D8A36900116D94 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD90D0F41190CA1F0044261B /* slider-forward-full.png */;
+	};
+	DD7B31BA11D8A36900116D94 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD90D0251190B3330044261B /* slider-reverse-empty.png */;
+	};
+	DD7B31BB11D8A36900116D94 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DDE4E298118F981900BC2D90 /* icon.png */;
+	};
+	DD7B31BD11D8A36900116D94 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* WiDrive_SocketAppDelegate.h */;
+		name = "WiDrive_SocketAppDelegate.h: 11";
+		rLen = 28;
+		rLoc = 189;
+		rType = 0;
+		vrLen = 518;
+		vrLoc = 0;
+	};
+	DD90D09F1190BEC00044261B /* slider-active.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 294}, {750, 558}}";
+		};
+	};
+	DD90D0A71190BF7A0044261B /* slider.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	DD99769411920F60003FF6C7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD99769511920F60003FF6C7 /* gavinwilliams.pbxuser */;
+		name = "gavinwilliams.pbxuser: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1333;
+		vrLoc = 0;
+	};
+	DD99769511920F60003FF6C7 /* gavinwilliams.pbxuser */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text;
+		name = gavinwilliams.pbxuser;
+		path = "/Users/gavinwilliams/Documents/Uni/BAIMPH/Major/WiDrive-Socket/WiDrive-Socket.xcodeproj/gavinwilliams.pbxuser";
+		sourceTree = "<absolute>";
+	};
+	DDA909EE128ECC8200EE0C10 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* WiDrive_SocketAppDelegate.m */;
+		name = "WiDrive_SocketAppDelegate.m: 15";
+		rLen = 0;
+		rLoc = 327;
+		rType = 0;
+		vrLen = 707;
+		vrLoc = 0;
+	};
+	DDA909EF128ECC8200EE0C10 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDC561FB11411D7D0099D6C0 /* AsyncSocket.h */;
+		name = "AsyncSocket.h: 181";
+		rLen = 11;
+		rLoc = 7408;
+		rType = 0;
+		vrLen = 955;
+		vrLoc = 6672;
+	};
+	DDA909F0128ECC8200EE0C10 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDC561FC11411D7D0099D6C0 /* AsyncSocket.m */;
+		name = "AsyncSocket.m: 3841";
+		rLen = 0;
+		rLoc = 111623;
+		rType = 0;
+		vrLen = 1383;
+		vrLoc = 46217;
+	};
+	DDA909F1128ECC8200EE0C10 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD04B6551175196F0024BDDE /* Car.h */;
+		name = "Car.h: 31";
+		rLen = 0;
+		rLoc = 633;
+		rType = 0;
+		vrLen = 639;
+		vrLoc = 0;
+	};
+	DDA909F2128ECC8200EE0C10 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD04B6561175196F0024BDDE /* Car.m */;
+		name = "Car.m: 34";
+		rLen = 0;
+		rLoc = 813;
+		rType = 0;
+		vrLen = 851;
+		vrLoc = 758;
+	};
+	DDB73FC41194CF680072205A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD18BA80118919A200156C3E /* background.png */;
+	};
+	DDC561FB11411D7D0099D6C0 /* AsyncSocket.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {979, 8801}}";
+			sepNavSelRange = "{7408, 11}";
+			sepNavVisRange = "{6672, 955}";
+			sepNavWindowFrame = "{{2439, 0}, {880, 1200}}";
+		};
+	};
+	DDC561FC11411D7D0099D6C0 /* AsyncSocket.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {979, 49465}}";
+			sepNavSelRange = "{111623, 0}";
+			sepNavVisRange = "{46217, 1383}";
+			sepNavWindowFrame = "{{1920, 0}, {1920, 1200}}";
+		};
+	};
+	DDD6A535118A41C3003B54C6 /* WiDrive_SocketViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1158, 910}}";
+			sepNavSelRange = "{757, 0}";
+			sepNavVisRange = "{821, 1099}";
+		};
+	};
+	DDE4E0B4118F2C9000BC2D90 /* WiDrive_SocketViewController.m:168 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		functionName = "-start:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 168;
+		location = "WiDrive-Socket";
+		modificationTime = 294595758.417235;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+}

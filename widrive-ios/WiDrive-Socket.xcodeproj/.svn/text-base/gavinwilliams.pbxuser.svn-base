@@ -1,0 +1,2700 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* WiDrive_SocketAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1566, 707}}";
+			sepNavSelRange = "{189, 28}";
+			sepNavVisRange = "{0, 518}";
+		};
+	};
+	1D3623250D0F684500981E51 /* WiDrive_SocketAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1566, 707}}";
+			sepNavSelRange = "{646, 0}";
+			sepNavVisRange = "{0, 707}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* WiDrive-Socket */ = {
+		activeExec = 0;
+		executables = (
+			DD14675A113C42E70073513D /* WiDrive-Socket */,
+		);
+	};
+	28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1566, 3991}}";
+			sepNavSelRange = "{8256, 0}";
+			sepNavVisRange = "{7626, 1332}";
+			sepNavWindowFrame = "{{785, 4}, {880, 1174}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = DD14675A113C42E70073513D /* WiDrive-Socket */;
+		activeSDKPreference = iphoneos4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* WiDrive-Socket */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* WiDrive-Socket */,
+		);
+		breakpoints = (
+			DDE4E0B4118F2C9000BC2D90 /* WiDrive_SocketViewController.m:168 */,
+		);
+		codeSenseManager = DD14676B113C42F30073513D /* Code sense */;
+		executables = (
+			DD14675A113C42E70073513D /* WiDrive-Socket */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1262,
+					20,
+					48,
+					43,
+					43,
+					20,
+					20,
+					10,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_Comments_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					956,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1348,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 294717275;
+			PBXWorkspaceStateSaveDate = 294717275;
+		};
+		perUserProjectItems = {
+			DD0FBD25118F0A7F00DCF03F = DD0FBD25118F0A7F00DCF03F /* PBXTextBookmark */;
+			DD0FBD27118F0A7F00DCF03F = DD0FBD27118F0A7F00DCF03F /* PBXBookmark */;
+			DD1BEF1E1146B45C00A98CA0 = DD1BEF1E1146B45C00A98CA0 /* PBXTextBookmark */;
+			DD1BEF1F1146B45C00A98CA0 = DD1BEF1F1146B45C00A98CA0 /* PBXTextBookmark */;
+			DD1BEF211146B45C00A98CA0 = DD1BEF211146B45C00A98CA0 /* PBXTextBookmark */;
+			DD3778A1118B9DAB00452A8B = DD3778A1118B9DAB00452A8B /* PBXBookmark */;
+			DD76B69A118A51EC0038037F = DD76B69A118A51EC0038037F /* PBXTextBookmark */;
+			DD90CFB5119087C60044261B = DD90CFB5119087C60044261B /* PBXTextBookmark */;
+			DD90CFBB119088C50044261B = DD90CFBB119088C50044261B /* PBXBookmark */;
+			DD90CFBE119089010044261B = DD90CFBE119089010044261B /* PBXTextBookmark */;
+			DD90CFBF119089010044261B = DD90CFBF119089010044261B /* PBXTextBookmark */;
+			DD90CFC0119089010044261B = DD90CFC0119089010044261B /* PBXTextBookmark */;
+			DD90CFC3119089010044261B = DD90CFC3119089010044261B /* PlistBookmark */;
+			DD90CFD2119089220044261B = DD90CFD2119089220044261B /* PBXTextBookmark */;
+			DD90CFD3119089220044261B = DD90CFD3119089220044261B /* PlistBookmark */;
+			DD90CFD6119089470044261B = DD90CFD6119089470044261B /* PBXTextBookmark */;
+			DD90CFD7119089470044261B = DD90CFD7119089470044261B /* PlistBookmark */;
+			DD90CFDA119089560044261B = DD90CFDA119089560044261B /* PBXTextBookmark */;
+			DD90CFDB119089560044261B = DD90CFDB119089560044261B /* PlistBookmark */;
+			DD90CFE011908A360044261B = DD90CFE011908A360044261B /* PBXTextBookmark */;
+			DD90CFE111908A360044261B = DD90CFE111908A360044261B /* PBXTextBookmark */;
+			DD90CFE211908A360044261B = DD90CFE211908A360044261B /* PBXTextBookmark */;
+			DD90CFE311908A360044261B = DD90CFE311908A360044261B /* PlistBookmark */;
+			DD90CFE811908A610044261B = DD90CFE811908A610044261B /* PBXTextBookmark */;
+			DD90CFE911908A610044261B = DD90CFE911908A610044261B /* PlistBookmark */;
+			DD90CFF011908AFA0044261B = DD90CFF011908AFA0044261B /* PBXTextBookmark */;
+			DD90CFF111908AFA0044261B = DD90CFF111908AFA0044261B /* PBXTextBookmark */;
+			DD90CFF211908AFA0044261B = DD90CFF211908AFA0044261B /* PBXTextBookmark */;
+			DD90CFF311908AFA0044261B = DD90CFF311908AFA0044261B /* PBXTextBookmark */;
+			DD90CFF411908AFA0044261B = DD90CFF411908AFA0044261B /* PBXTextBookmark */;
+			DD90CFF511908AFA0044261B = DD90CFF511908AFA0044261B /* PlistBookmark */;
+			DD90CFF811908B580044261B = DD90CFF811908B580044261B /* PBXTextBookmark */;
+			DD90CFF911908B580044261B = DD90CFF911908B580044261B /* PlistBookmark */;
+			DD90CFFC11908B680044261B = DD90CFFC11908B680044261B /* PBXTextBookmark */;
+			DD90CFFD11908B680044261B = DD90CFFD11908B680044261B /* PlistBookmark */;
+			DD90D0051190967D0044261B = DD90D0051190967D0044261B /* PBXTextBookmark */;
+			DD90D0061190967D0044261B = DD90D0061190967D0044261B /* PlistBookmark */;
+			DD90D00A119096B30044261B = DD90D00A119096B30044261B /* PBXTextBookmark */;
+			DD90D00B119096B30044261B = DD90D00B119096B30044261B /* PlistBookmark */;
+			DD90D02A1190B5B70044261B = DD90D02A1190B5B70044261B /* PBXBookmark */;
+			DD90D02B1190B5B70044261B = DD90D02B1190B5B70044261B /* PBXBookmark */;
+			DD90D02C1190B5B70044261B = DD90D02C1190B5B70044261B /* PBXTextBookmark */;
+			DD90D02D1190B5B70044261B = DD90D02D1190B5B70044261B /* PBXTextBookmark */;
+			DD90D02E1190B5B70044261B = DD90D02E1190B5B70044261B /* PlistBookmark */;
+			DD90D0321190B6630044261B = DD90D0321190B6630044261B /* PBXTextBookmark */;
+			DD90D0331190B6630044261B = DD90D0331190B6630044261B /* PlistBookmark */;
+			DD90D0341190B6B30044261B = DD90D0341190B6B30044261B /* PBXTextBookmark */;
+			DD90D0351190B6B30044261B = DD90D0351190B6B30044261B /* PlistBookmark */;
+			DD90D0381190B6D00044261B = DD90D0381190B6D00044261B /* PBXTextBookmark */;
+			DD90D0391190B6D00044261B = DD90D0391190B6D00044261B /* PlistBookmark */;
+			DD90D0411190B9640044261B = DD90D0411190B9640044261B /* PBXTextBookmark */;
+			DD90D0421190B9640044261B = DD90D0421190B9640044261B /* PlistBookmark */;
+			DD90D04A1190B9EA0044261B = DD90D04A1190B9EA0044261B /* PBXTextBookmark */;
+			DD90D04B1190B9EA0044261B = DD90D04B1190B9EA0044261B /* PlistBookmark */;
+			DD90D0511190BA8C0044261B = DD90D0511190BA8C0044261B /* PBXTextBookmark */;
+			DD90D0521190BA8C0044261B = DD90D0521190BA8C0044261B /* PlistBookmark */;
+			DD90D0551190BA9B0044261B = DD90D0551190BA9B0044261B /* PBXTextBookmark */;
+			DD90D0561190BA9B0044261B = DD90D0561190BA9B0044261B /* PlistBookmark */;
+			DD90D0591190BAA60044261B = DD90D0591190BAA60044261B /* PBXTextBookmark */;
+			DD90D05A1190BAA60044261B = DD90D05A1190BAA60044261B /* PlistBookmark */;
+			DD90D05D1190BADE0044261B = DD90D05D1190BADE0044261B /* PBXTextBookmark */;
+			DD90D05E1190BADE0044261B = DD90D05E1190BADE0044261B /* PlistBookmark */;
+			DD90D0611190BAE80044261B = DD90D0611190BAE80044261B /* PBXTextBookmark */;
+			DD90D0621190BAE80044261B = DD90D0621190BAE80044261B /* PlistBookmark */;
+			DD90D0651190BAF00044261B = DD90D0651190BAF00044261B /* PBXTextBookmark */;
+			DD90D0661190BAF00044261B = DD90D0661190BAF00044261B /* PlistBookmark */;
+			DD90D0691190BB140044261B = DD90D0691190BB140044261B /* PBXTextBookmark */;
+			DD90D06A1190BB140044261B = DD90D06A1190BB140044261B /* PlistBookmark */;
+			DD90D06B1190BB2D0044261B = DD90D06B1190BB2D0044261B /* PBXTextBookmark */;
+			DD90D06C1190BB2D0044261B = DD90D06C1190BB2D0044261B /* PlistBookmark */;
+			DD90D06F1190BB8C0044261B = DD90D06F1190BB8C0044261B /* PBXTextBookmark */;
+			DD90D0701190BB8C0044261B = DD90D0701190BB8C0044261B /* PlistBookmark */;
+			DD90D0731190BB9B0044261B = DD90D0731190BB9B0044261B /* PBXTextBookmark */;
+			DD90D0741190BB9B0044261B = DD90D0741190BB9B0044261B /* PlistBookmark */;
+			DD90D0771190BBA40044261B = DD90D0771190BBA40044261B /* PBXTextBookmark */;
+			DD90D0781190BBA40044261B = DD90D0781190BBA40044261B /* PlistBookmark */;
+			DD90D07B1190BBAA0044261B = DD90D07B1190BBAA0044261B /* PBXTextBookmark */;
+			DD90D07C1190BBAA0044261B = DD90D07C1190BBAA0044261B /* PlistBookmark */;
+			DD90D0811190BC430044261B = DD90D0811190BC430044261B /* PBXTextBookmark */;
+			DD90D0821190BC430044261B = DD90D0821190BC430044261B /* PlistBookmark */;
+			DD90D0851190BC630044261B = DD90D0851190BC630044261B /* PBXTextBookmark */;
+			DD90D0861190BC630044261B = DD90D0861190BC630044261B /* PlistBookmark */;
+			DD90D0891190BC760044261B = DD90D0891190BC760044261B /* PBXTextBookmark */;
+			DD90D08A1190BC760044261B = DD90D08A1190BC760044261B /* PlistBookmark */;
+			DD90D08D1190BC890044261B = DD90D08D1190BC890044261B /* PBXTextBookmark */;
+			DD90D08E1190BC890044261B = DD90D08E1190BC890044261B /* PlistBookmark */;
+			DD90D0911190BC960044261B = DD90D0911190BC960044261B /* PBXTextBookmark */;
+			DD90D0921190BC960044261B = DD90D0921190BC960044261B /* PlistBookmark */;
+			DD90D0951190BCA50044261B = DD90D0951190BCA50044261B /* PBXTextBookmark */;
+			DD90D0961190BCA50044261B = DD90D0961190BCA50044261B /* PlistBookmark */;
+			DD90D0991190BD2D0044261B = DD90D0991190BD2D0044261B /* PBXTextBookmark */;
+			DD90D09A1190BD2D0044261B = DD90D09A1190BD2D0044261B /* PlistBookmark */;
+			DD90D09D1190BDD40044261B = DD90D09D1190BDD40044261B /* PBXTextBookmark */;
+			DD90D09E1190BDD40044261B = DD90D09E1190BDD40044261B /* PlistBookmark */;
+			DD90D0A11190BF070044261B = DD90D0A11190BF070044261B /* PBXTextBookmark */;
+			DD90D0A21190BF070044261B = DD90D0A21190BF070044261B /* PlistBookmark */;
+			DD90D0A51190BF440044261B = DD90D0A51190BF440044261B /* PBXTextBookmark */;
+			DD90D0A61190BF440044261B = DD90D0A61190BF440044261B /* PlistBookmark */;
+			DD90D0AD1190C0050044261B = DD90D0AD1190C0050044261B /* PBXBookmark */;
+			DD90D0AE1190C0050044261B = DD90D0AE1190C0050044261B /* PBXBookmark */;
+			DD90D0AF1190C0050044261B = DD90D0AF1190C0050044261B /* PBXBookmark */;
+			DD90D0B01190C0050044261B = DD90D0B01190C0050044261B /* PBXTextBookmark */;
+			DD90D0B11190C0050044261B = DD90D0B11190C0050044261B /* PBXTextBookmark */;
+			DD90D0B21190C0050044261B = DD90D0B21190C0050044261B /* PBXTextBookmark */;
+			DD90D0B31190C0050044261B = DD90D0B31190C0050044261B /* PlistBookmark */;
+			DD90D0B61190C0450044261B = DD90D0B61190C0450044261B /* PBXTextBookmark */;
+			DD90D0B71190C0450044261B = DD90D0B71190C0450044261B /* PlistBookmark */;
+			DD90D0BA1190C05E0044261B = DD90D0BA1190C05E0044261B /* PBXTextBookmark */;
+			DD90D0BB1190C05E0044261B = DD90D0BB1190C05E0044261B /* PlistBookmark */;
+			DD90D0BE1190C0680044261B = DD90D0BE1190C0680044261B /* PBXTextBookmark */;
+			DD90D0BF1190C0680044261B = DD90D0BF1190C0680044261B /* PlistBookmark */;
+			DD90D0C21190C0820044261B = DD90D0C21190C0820044261B /* PBXTextBookmark */;
+			DD90D0C31190C0820044261B = DD90D0C31190C0820044261B /* PlistBookmark */;
+			DD90D0C61190C0890044261B = DD90D0C61190C0890044261B /* PBXTextBookmark */;
+			DD90D0C71190C0890044261B = DD90D0C71190C0890044261B /* PlistBookmark */;
+			DD90D0CA1190C0930044261B = DD90D0CA1190C0930044261B /* PBXTextBookmark */;
+			DD90D0CB1190C0930044261B = DD90D0CB1190C0930044261B /* PlistBookmark */;
+			DD90D0CE1190C0AF0044261B = DD90D0CE1190C0AF0044261B /* PBXTextBookmark */;
+			DD90D0CF1190C0AF0044261B = DD90D0CF1190C0AF0044261B /* PlistBookmark */;
+			DD90D0D21190C0D90044261B = DD90D0D21190C0D90044261B /* PBXTextBookmark */;
+			DD90D0D31190C0D90044261B = DD90D0D31190C0D90044261B /* PlistBookmark */;
+			DD90D0D61190C1060044261B = DD90D0D61190C1060044261B /* PBXTextBookmark */;
+			DD90D0D71190C1060044261B = DD90D0D71190C1060044261B /* PlistBookmark */;
+			DD90D0DB1190C1350044261B = DD90D0DB1190C1350044261B /* PBXTextBookmark */;
+			DD90D0DC1190C1350044261B = DD90D0DC1190C1350044261B /* PlistBookmark */;
+			DD90D0DF1190C14B0044261B = DD90D0DF1190C14B0044261B /* PBXTextBookmark */;
+			DD90D0E01190C14B0044261B = DD90D0E01190C14B0044261B /* PlistBookmark */;
+			DD90D0E31190C1760044261B = DD90D0E31190C1760044261B /* PBXTextBookmark */;
+			DD90D0E41190C1760044261B = DD90D0E41190C1760044261B /* PlistBookmark */;
+			DD90D0E91190C6DC0044261B = DD90D0E91190C6DC0044261B /* PBXBookmark */;
+			DD90D0EA1190C6DC0044261B = DD90D0EA1190C6DC0044261B /* PBXBookmark */;
+			DD90D0EB1190C6DC0044261B = DD90D0EB1190C6DC0044261B /* PBXTextBookmark */;
+			DD90D0EC1190C6DC0044261B = DD90D0EC1190C6DC0044261B /* PBXTextBookmark */;
+			DD90D0ED1190C6DC0044261B = DD90D0ED1190C6DC0044261B /* PBXTextBookmark */;
+			DD90D0EE1190C6DC0044261B = DD90D0EE1190C6DC0044261B /* PlistBookmark */;
+			DD90D0F11190C6E70044261B = DD90D0F11190C6E70044261B /* PBXTextBookmark */;
+			DD90D0F21190C6E70044261B = DD90D0F21190C6E70044261B /* PlistBookmark */;
+			DD90D0FF1190CB790044261B = DD90D0FF1190CB790044261B /* PBXTextBookmark */;
+			DD90D1001190CB790044261B = DD90D1001190CB790044261B /* PBXTextBookmark */;
+			DD90D1011190CB790044261B = DD90D1011190CB790044261B /* PBXTextBookmark */;
+			DD90D1021190CB790044261B = DD90D1021190CB790044261B /* PlistBookmark */;
+			DD90D1051190CB940044261B = DD90D1051190CB940044261B /* PBXTextBookmark */;
+			DD90D1061190CB940044261B = DD90D1061190CB940044261B /* PlistBookmark */;
+			DD90D1091190CBF50044261B = DD90D1091190CBF50044261B /* PBXTextBookmark */;
+			DD90D10A1190CBF50044261B = DD90D10A1190CBF50044261B /* PlistBookmark */;
+			DD90D10D1190CC2F0044261B = DD90D10D1190CC2F0044261B /* PBXTextBookmark */;
+			DD90D10E1190CC2F0044261B = DD90D10E1190CC2F0044261B /* PlistBookmark */;
+			DD90D1111190CC4C0044261B = DD90D1111190CC4C0044261B /* PBXTextBookmark */;
+			DD90D1121190CC4C0044261B = DD90D1121190CC4C0044261B /* PlistBookmark */;
+			DD90D1151190CC9C0044261B = DD90D1151190CC9C0044261B /* PBXTextBookmark */;
+			DD90D1161190CC9C0044261B = DD90D1161190CC9C0044261B /* PBXTextBookmark */;
+			DD90D1171190CC9C0044261B = DD90D1171190CC9C0044261B /* PlistBookmark */;
+			DD90D11A1190CCAE0044261B = DD90D11A1190CCAE0044261B /* PBXTextBookmark */;
+			DD90D11B1190CCAE0044261B = DD90D11B1190CCAE0044261B /* PlistBookmark */;
+			DD90D11E1190CCC90044261B = DD90D11E1190CCC90044261B /* PBXTextBookmark */;
+			DD90D11F1190CCC90044261B = DD90D11F1190CCC90044261B /* PlistBookmark */;
+			DD90D1221190CCE60044261B = DD90D1221190CCE60044261B /* PBXTextBookmark */;
+			DD90D1231190CCE60044261B = DD90D1231190CCE60044261B /* PlistBookmark */;
+			DD90D1251190D2DA0044261B = DD90D1251190D2DA0044261B /* PBXBookmark */;
+			DD90D1261190D2DA0044261B = DD90D1261190D2DA0044261B /* PBXBookmark */;
+			DD90D1271190D2DA0044261B = DD90D1271190D2DA0044261B /* PBXTextBookmark */;
+			DD90D1281190D2DA0044261B = DD90D1281190D2DA0044261B /* PBXTextBookmark */;
+			DD90D1291190D2DA0044261B = DD90D1291190D2DA0044261B /* PBXTextBookmark */;
+			DD90D12A1190D2DA0044261B = DD90D12A1190D2DA0044261B /* PlistBookmark */;
+			DD90D12B1190D3460044261B = DD90D12B1190D3460044261B /* PBXTextBookmark */;
+			DD90D12C1190D3460044261B = DD90D12C1190D3460044261B /* PlistBookmark */;
+			DD90D1371190D3EF0044261B = DD90D1371190D3EF0044261B /* PBXTextBookmark */;
+			DD90D1381190D3EF0044261B = DD90D1381190D3EF0044261B /* PlistBookmark */;
+			DD90D13D1190D7800044261B = DD90D13D1190D7800044261B /* PBXTextBookmark */;
+			DD90D13E1190D7800044261B = DD90D13E1190D7800044261B /* PlistBookmark */;
+			DD90D1521190D9CA0044261B = DD90D1521190D9CA0044261B /* PBXBookmark */;
+			DD90D1531190D9CA0044261B = DD90D1531190D9CA0044261B /* PBXBookmark */;
+			DD90D1541190D9CA0044261B = DD90D1541190D9CA0044261B /* PBXBookmark */;
+			DD90D1551190D9CA0044261B = DD90D1551190D9CA0044261B /* PBXBookmark */;
+			DD90D1561190D9CA0044261B = DD90D1561190D9CA0044261B /* PBXBookmark */;
+			DD90D1571190D9CA0044261B = DD90D1571190D9CA0044261B /* PBXBookmark */;
+			DD90D1581190D9CA0044261B = DD90D1581190D9CA0044261B /* PBXBookmark */;
+			DD90D1591190D9CA0044261B = DD90D1591190D9CA0044261B /* PBXBookmark */;
+			DD90D15A1190D9CA0044261B = DD90D15A1190D9CA0044261B /* PBXBookmark */;
+			DD90D15B1190D9CA0044261B = DD90D15B1190D9CA0044261B /* PBXBookmark */;
+			DD90D15C1190D9CA0044261B = DD90D15C1190D9CA0044261B /* PBXBookmark */;
+			DD90D15D1190D9CA0044261B = DD90D15D1190D9CA0044261B /* PBXBookmark */;
+			DD90D15E1190D9CA0044261B = DD90D15E1190D9CA0044261B /* PBXBookmark */;
+			DD90D15F1190D9CA0044261B = DD90D15F1190D9CA0044261B /* PBXBookmark */;
+			DD90D1601190D9CA0044261B = DD90D1601190D9CA0044261B /* PBXBookmark */;
+			DD90D1611190D9CA0044261B = DD90D1611190D9CA0044261B /* PBXBookmark */;
+			DD90D1621190D9CA0044261B = DD90D1621190D9CA0044261B /* PBXBookmark */;
+			DD90D1631190D9CA0044261B = DD90D1631190D9CA0044261B /* PBXTextBookmark */;
+			DD90D1641190D9CA0044261B = DD90D1641190D9CA0044261B /* PBXTextBookmark */;
+			DD90D1651190D9CA0044261B = DD90D1651190D9CA0044261B /* PBXTextBookmark */;
+			DD90D1661190D9CA0044261B = DD90D1661190D9CA0044261B /* PlistBookmark */;
+			DD90D16A1190DC330044261B = DD90D16A1190DC330044261B /* PBXTextBookmark */;
+			DD90D16B1190DC330044261B = DD90D16B1190DC330044261B /* PBXTextBookmark */;
+			DD90D16C1190DC330044261B = DD90D16C1190DC330044261B /* PBXTextBookmark */;
+			DD90D16D1190DC330044261B = DD90D16D1190DC330044261B /* PBXTextBookmark */;
+			DD90D16E1190DC330044261B = DD90D16E1190DC330044261B /* PBXTextBookmark */;
+			DD90D16F1190DC330044261B = DD90D16F1190DC330044261B /* PlistBookmark */;
+			DD90D17A1190E2100044261B = DD90D17A1190E2100044261B /* PBXTextBookmark */;
+			DD90D17B1190E2100044261B = DD90D17B1190E2100044261B /* PBXTextBookmark */;
+			DD90D17C1190E2120044261B = DD90D17C1190E2120044261B /* PBXTextBookmark */;
+			DD90D17D1190E2140044261B = DD90D17D1190E2140044261B /* PBXTextBookmark */;
+			DD90D17E1190E2140044261B = DD90D17E1190E2140044261B /* PBXTextBookmark */;
+			DD90D17F1190E2140044261B = DD90D17F1190E2140044261B /* PBXTextBookmark */;
+			DD99769411920F60003FF6C7 /* PBXTextBookmark */ = DD99769411920F60003FF6C7 /* PBXTextBookmark */;
+			DD99769611920F60003FF6C7 /* PBXBookmark */ = DD99769611920F60003FF6C7 /* PBXBookmark */;
+			DD99769711920F60003FF6C7 /* PBXTextBookmark */ = DD99769711920F60003FF6C7 /* PBXTextBookmark */;
+			DDC562D111414D150099D6C0 = DDC562D111414D150099D6C0 /* PBXTextBookmark */;
+			DDC562D311414D150099D6C0 = DDC562D311414D150099D6C0 /* PBXTextBookmark */;
+			DDD7717E119079D70030C7F5 = DDD7717E119079D70030C7F5 /* PBXBookmark */;
+			DDD7717F119079D70030C7F5 = DDD7717F119079D70030C7F5 /* PBXTextBookmark */;
+			DDD77180119079D70030C7F5 = DDD77180119079D70030C7F5 /* PBXTextBookmark */;
+			DDD77183119079D70030C7F5 = DDD77183119079D70030C7F5 /* PBXTextBookmark */;
+			DDD77184119079D70030C7F5 = DDD77184119079D70030C7F5 /* PBXTextBookmark */;
+			DDD7719A119080300030C7F5 = DDD7719A119080300030C7F5 /* PBXTextBookmark */;
+			DDD7719B119080300030C7F5 = DDD7719B119080300030C7F5 /* PBXTextBookmark */;
+			DDD7719C119080300030C7F5 = DDD7719C119080300030C7F5 /* PBXTextBookmark */;
+			DDD7719D119080300030C7F5 = DDD7719D119080300030C7F5 /* PBXTextBookmark */;
+			DDE4E077118F1E8400BC2D90 = DDE4E077118F1E8400BC2D90 /* PBXTextBookmark */;
+			DDE4E078118F1E8400BC2D90 = DDE4E078118F1E8400BC2D90 /* PBXTextBookmark */;
+			DDE4E09A118F2BD100BC2D90 = DDE4E09A118F2BD100BC2D90 /* PBXBookmark */;
+			DDE4E15F118F492900BC2D90 = DDE4E15F118F492900BC2D90 /* PBXTextBookmark */;
+			DDE4E183118F4B6600BC2D90 = DDE4E183118F4B6600BC2D90 /* PBXBookmark */;
+			DDE4E25D118F8E5900BC2D90 = DDE4E25D118F8E5900BC2D90 /* PBXBookmark */;
+			DDE4E25F118F8E5900BC2D90 = DDE4E25F118F8E5900BC2D90 /* PBXTextBookmark */;
+			DDE4E2AC118F9D6B00BC2D90 = DDE4E2AC118F9D6B00BC2D90 /* PlistBookmark */;
+			DDE4E331118FAE0C00BC2D90 = DDE4E331118FAE0C00BC2D90 /* PBXBookmark */;
+		};
+		sourceControlManager = DD14676A113C42F30073513D /* Source Control */;
+		userBuildSettings = {
+			OBJROOT = "$(SYMROOT)";
+			SYMROOT = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/build";
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1566, 700}}";
+			sepNavSelRange = "{365, 0}";
+			sepNavVisRange = "{0, 365}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* WiDrive_Socket_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1566, 700}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 197}";
+		};
+	};
+	8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{2174, 26}, {880, 1174}}";
+		};
+	};
+	DD04B6551175196F0024BDDE /* Car.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1566, 677}}";
+			sepNavSelRange = "{633, 0}";
+			sepNavVisRange = "{0, 639}";
+		};
+	};
+	DD04B6561175196F0024BDDE /* Car.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1566, 1131}}";
+			sepNavSelRange = "{1080, 0}";
+			sepNavVisRange = "{161, 1240}";
+			sepNavWindowFrame = "{{1920, 0}, {1920, 1200}}";
+		};
+	};
+	DD0FBD25118F0A7F00DCF03F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD0FBD26118F0A7F00DCF03F /* gavinwilliams.pbxuser */;
+		name = "gavinwilliams.pbxuser: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1854;
+		vrLoc = 0;
+	};
+	DD0FBD26118F0A7F00DCF03F /* gavinwilliams.pbxuser */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text;
+		name = gavinwilliams.pbxuser;
+		path = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive-Socket.xcodeproj/gavinwilliams.pbxuser";
+		sourceTree = "<absolute>";
+	};
+	DD0FBD27118F0A7F00DCF03F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD18BA80118919A200156C3E /* background.png */;
+	};
+	DD14675A113C42E70073513D /* WiDrive-Socket */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "WiDrive-Socket";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	DD14676A113C42F30073513D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = widrive;
+			};
+		};
+	};
+	DD14676B113C42F30073513D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	DD18BA4A1189106700156C3E /* steering-wheel.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{1920, 0}, {1965, 1200}}";
+		};
+	};
+	DD1BEEFE1146A4A300A98CA0 /* socketapp.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = socketapp.h;
+		path = /Applications/Arduino.app/Contents/Resources/Java/hardware/libraries/WiShield/socketapp.h;
+		sourceTree = "<absolute>";
+	};
+	DD1BEF1E1146B45C00A98CA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD1BEEFE1146A4A300A98CA0 /* socketapp.h */;
+		name = "socketapp.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2160;
+		vrLoc = 0;
+	};
+	DD1BEF1F1146B45C00A98CA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD1BEF201146B45C00A98CA0 /* apps-conf.h */;
+		name = "apps-conf.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1803;
+		vrLoc = 0;
+	};
+	DD1BEF201146B45C00A98CA0 /* apps-conf.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = "apps-conf.h";
+		path = "/Applications/Arduino.app/Contents/Resources/Java/hardware/libraries/WiShield/apps-conf.h";
+		sourceTree = "<absolute>";
+	};
+	DD1BEF211146B45C00A98CA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDC55ECD113FF2210099D6C0 /* stack.c */;
+		name = "stack.c: 68";
+		rLen = 1;
+		rLoc = 1958;
+		rType = 0;
+		vrLen = 1404;
+		vrLoc = 1050;
+	};
+	DD3778A1118B9DAB00452A8B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DDD6A4D3118A3497003B54C6 /* button-stop.png */;
+	};
+	DD76B69A118A51EC0038037F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD76B69B118A51EC0038037F /* project.pbxproj */;
+		name = "project.pbxproj: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 7651;
+		vrLoc = 0;
+	};
+	DD76B69B118A51EC0038037F /* project.pbxproj */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.pbxproject;
+		name = project.pbxproj;
+		path = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive-Socket.xcodeproj/project.pbxproj";
+		sourceTree = "<absolute>";
+	};
+	DD90CFB5119087C60044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDD6A535118A41C3003B54C6 /* WiDrive_SocketViewController.h */;
+		name = "WiDrive_SocketViewController.h: 36";
+		rLen = 0;
+		rLoc = 1106;
+		rType = 0;
+		vrLen = 1408;
+		vrLoc = 57;
+	};
+	DD90CFBB119088C50044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+	};
+	DD90CFBE119089010044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDD6A535118A41C3003B54C6 /* WiDrive_SocketViewController.h */;
+		name = "WiDrive_SocketViewController.h: 36";
+		rLen = 0;
+		rLoc = 1106;
+		rType = 0;
+		vrLen = 1408;
+		vrLoc = 57;
+	};
+	DD90CFBF119089010044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 65";
+		rLen = 0;
+		rLoc = 4996;
+		rType = 0;
+		vrLen = 1498;
+		vrLoc = 2365;
+	};
+	DD90CFC0119089010044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 65";
+		rLen = 0;
+		rLoc = 4996;
+		rType = 0;
+		vrLen = 1348;
+		vrLoc = 1244;
+	};
+	DD90CFC3119089010044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90CFD2119089220044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 65";
+		rLen = 0;
+		rLoc = 4996;
+		rType = 0;
+		vrLen = 1348;
+		vrLoc = 1244;
+	};
+	DD90CFD3119089220044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90CFD6119089470044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 99";
+		rLen = 0;
+		rLoc = 5820;
+		rType = 0;
+		vrLen = 1410;
+		vrLoc = 2247;
+	};
+	DD90CFD7119089470044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90CFDA119089560044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 99";
+		rLen = 0;
+		rLoc = 5820;
+		rType = 0;
+		vrLen = 1410;
+		vrLoc = 2247;
+	};
+	DD90CFDB119089560044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90CFE011908A360044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDD6A535118A41C3003B54C6 /* WiDrive_SocketViewController.h */;
+		name = "WiDrive_SocketViewController.h: 48";
+		rLen = 0;
+		rLoc = 1687;
+		rType = 0;
+		vrLen = 1434;
+		vrLoc = 57;
+	};
+	DD90CFE111908A360044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 99";
+		rLen = 0;
+		rLoc = 5820;
+		rType = 0;
+		vrLen = 1449;
+		vrLoc = 0;
+	};
+	DD90CFE211908A360044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 70";
+		rLen = 0;
+		rLoc = 4992;
+		rType = 0;
+		vrLen = 1552;
+		vrLoc = 698;
+	};
+	DD90CFE311908A360044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90CFE811908A610044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 51";
+		rLen = 0;
+		rLoc = 1388;
+		rType = 0;
+		vrLen = 1445;
+		vrLoc = 675;
+	};
+	DD90CFE911908A610044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90CFF011908AFA0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD04B6551175196F0024BDDE /* Car.h */;
+		name = "Car.h: 31";
+		rLen = 0;
+		rLoc = 633;
+		rType = 0;
+		vrLen = 639;
+		vrLoc = 0;
+	};
+	DD90CFF111908AFA0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* WiDrive_Socket_Prefix.pch */;
+		name = "WiDrive_Socket_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 197;
+		vrLoc = 0;
+	};
+	DD90CFF211908AFA0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 18";
+		rLen = 0;
+		rLoc = 365;
+		rType = 0;
+		vrLen = 365;
+		vrLoc = 0;
+	};
+	DD90CFF311908AFA0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 156";
+		rLen = 22;
+		rLoc = 7693;
+		rType = 0;
+		vrLen = 1342;
+		vrLoc = 1544;
+	};
+	DD90CFF411908AFA0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 70";
+		rLen = 0;
+		rLoc = 4808;
+		rType = 0;
+		vrLen = 1583;
+		vrLoc = 814;
+	};
+	DD90CFF511908AFA0044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90CFF811908B580044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 121";
+		rLen = 0;
+		rLoc = 6000;
+		rType = 0;
+		vrLen = 1565;
+		vrLoc = 2754;
+	};
+	DD90CFF911908B580044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90CFFC11908B680044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 108";
+		rLen = 0;
+		rLoc = 5703;
+		rType = 0;
+		vrLen = 1391;
+		vrLoc = 2528;
+	};
+	DD90CFFD11908B680044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0051190967D0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 120";
+		rLen = 0;
+		rLoc = 6000;
+		rType = 0;
+		vrLen = 1395;
+		vrLoc = 2528;
+	};
+	DD90D0061190967D0044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D00A119096B30044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 118";
+		rLen = 0;
+		rLoc = 5950;
+		rType = 0;
+		vrLen = 1395;
+		vrLoc = 2528;
+	};
+	DD90D00B119096B30044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D02A1190B5B70044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DDE4E298118F981900BC2D90 /* icon.png */;
+	};
+	DD90D02B1190B5B70044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DDD6A4D3118A3497003B54C6 /* button-stop.png */;
+	};
+	DD90D02C1190B5B70044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 118";
+		rLen = 0;
+		rLoc = 5950;
+		rType = 0;
+		vrLen = 1395;
+		vrLoc = 2528;
+	};
+	DD90D02D1190B5B70044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 55";
+		rLen = 0;
+		rLoc = 1532;
+		rType = 0;
+		vrLen = 1968;
+		vrLoc = 817;
+	};
+	DD90D02E1190B5B70044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0321190B6630044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 57";
+		rLen = 0;
+		rLoc = 1659;
+		rType = 0;
+		vrLen = 1964;
+		vrLoc = 817;
+	};
+	DD90D0331190B6630044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0341190B6B30044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 60";
+		rLen = 10;
+		rLoc = 1711;
+		rType = 0;
+		vrLen = 1964;
+		vrLoc = 817;
+	};
+	DD90D0351190B6B30044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0381190B6D00044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 60";
+		rLen = 0;
+		rLoc = 1739;
+		rType = 0;
+		vrLen = 1944;
+		vrLoc = 888;
+	};
+	DD90D0391190B6D00044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0411190B9640044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 58";
+		rLen = 0;
+		rLoc = 1725;
+		rType = 0;
+		vrLen = 1844;
+		vrLoc = 817;
+	};
+	DD90D0421190B9640044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D04A1190B9EA0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 58";
+		rLen = 3;
+		rLoc = 1722;
+		rType = 0;
+		vrLen = 1780;
+		vrLoc = 814;
+	};
+	DD90D04B1190B9EA0044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0511190BA8C0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 59";
+		rLen = 0;
+		rLoc = 1822;
+		rType = 0;
+		vrLen = 1780;
+		vrLoc = 814;
+	};
+	DD90D0521190BA8C0044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0551190BA9B0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 58";
+		rLen = 0;
+		rLoc = 1725;
+		rType = 0;
+		vrLen = 1780;
+		vrLoc = 814;
+	};
+	DD90D0561190BA9B0044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0591190BAA60044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 58";
+		rLen = 0;
+		rLoc = 1725;
+		rType = 0;
+		vrLen = 1780;
+		vrLoc = 814;
+	};
+	DD90D05A1190BAA60044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D05D1190BADE0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 58";
+		rLen = 0;
+		rLoc = 1730;
+		rType = 0;
+		vrLen = 1771;
+		vrLoc = 701;
+	};
+	DD90D05E1190BADE0044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0611190BAE80044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 58";
+		rLen = 0;
+		rLoc = 1730;
+		rType = 0;
+		vrLen = 1771;
+		vrLoc = 701;
+	};
+	DD90D0621190BAE80044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0651190BAF00044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 58";
+		rLen = 0;
+		rLoc = 1729;
+		rType = 0;
+		vrLen = 1771;
+		vrLoc = 701;
+	};
+	DD90D0661190BAF00044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0691190BB140044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 58";
+		rLen = 0;
+		rLoc = 1730;
+		rType = 0;
+		vrLen = 1771;
+		vrLoc = 701;
+	};
+	DD90D06A1190BB140044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D06B1190BB2D0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 72";
+		rLen = 36;
+		rLoc = 2682;
+		rType = 0;
+		vrLen = 1803;
+		vrLoc = 789;
+	};
+	DD90D06C1190BB2D0044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D06F1190BB8C0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 72";
+		rLen = 0;
+		rLoc = 2720;
+		rType = 0;
+		vrLen = 1698;
+		vrLoc = 789;
+	};
+	DD90D0701190BB8C0044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0731190BB9B0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 72";
+		rLen = 0;
+		rLoc = 2719;
+		rType = 0;
+		vrLen = 1699;
+		vrLoc = 789;
+	};
+	DD90D0741190BB9B0044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0771190BBA40044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 72";
+		rLen = 0;
+		rLoc = 2720;
+		rType = 0;
+		vrLen = 1698;
+		vrLoc = 789;
+	};
+	DD90D0781190BBA40044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D07B1190BBAA0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 72";
+		rLen = 0;
+		rLoc = 2720;
+		rType = 0;
+		vrLen = 1698;
+		vrLoc = 789;
+	};
+	DD90D07C1190BBAA0044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0811190BC430044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 53";
+		rLen = 0;
+		rLoc = 1659;
+		rType = 0;
+		vrLen = 1700;
+		vrLoc = 789;
+	};
+	DD90D0821190BC430044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0851190BC630044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 56";
+		rLen = 0;
+		rLoc = 1659;
+		rType = 0;
+		vrLen = 1698;
+		vrLoc = 789;
+	};
+	DD90D0861190BC630044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0891190BC760044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 58";
+		rLen = 0;
+		rLoc = 1734;
+		rType = 0;
+		vrLen = 1698;
+		vrLoc = 789;
+	};
+	DD90D08A1190BC760044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D08D1190BC890044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 56";
+		rLen = 0;
+		rLoc = 1659;
+		rType = 0;
+		vrLen = 1794;
+		vrLoc = 814;
+	};
+	DD90D08E1190BC890044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0911190BC960044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 55";
+		rLen = 0;
+		rLoc = 1659;
+		rType = 0;
+		vrLen = 1794;
+		vrLoc = 814;
+	};
+	DD90D0921190BC960044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0951190BCA50044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 56";
+		rLen = 0;
+		rLoc = 1659;
+		rType = 0;
+		vrLen = 1794;
+		vrLoc = 814;
+	};
+	DD90D0961190BCA50044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0991190BD2D0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 59";
+		rLen = 0;
+		rLoc = 1661;
+		rType = 0;
+		vrLen = 1715;
+		vrLoc = 814;
+	};
+	DD90D09A1190BD2D0044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D09D1190BDD40044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 71";
+		rLen = 0;
+		rLoc = 2325;
+		rType = 0;
+		vrLen = 1784;
+		vrLoc = 701;
+	};
+	DD90D09E1190BDD40044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0A11190BF070044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 67";
+		rLen = 10;
+		rLoc = 2109;
+		rType = 0;
+		vrLen = 1925;
+		vrLoc = 701;
+	};
+	DD90D0A21190BF070044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0A51190BF440044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 67";
+		rLen = 0;
+		rLoc = 2136;
+		rType = 0;
+		vrLen = 1936;
+		vrLoc = 701;
+	};
+	DD90D0A61190BF440044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0AD1190C0050044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DDD6A4D3118A3497003B54C6 /* button-stop.png */;
+	};
+	DD90D0AE1190C0050044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD90D0A71190BF7A0044261B /* slider.png */;
+	};
+	DD90D0AF1190C0050044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD18BA4A1189106700156C3E /* steering-wheel.png */;
+	};
+	DD90D0B01190C0050044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDD6A535118A41C3003B54C6 /* WiDrive_SocketViewController.h */;
+		name = "WiDrive_SocketViewController.h: 35";
+		rLen = 0;
+		rLoc = 907;
+		rType = 0;
+		vrLen = 1480;
+		vrLoc = 3;
+	};
+	DD90D0B11190C0050044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 61";
+		rLen = 13;
+		rLoc = 1663;
+		rType = 0;
+		vrLen = 1546;
+		vrLoc = 38;
+	};
+	DD90D0B21190C0050044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 85";
+		rLen = 0;
+		rLoc = 4250;
+		rType = 0;
+		vrLen = 1696;
+		vrLoc = 1506;
+	};
+	DD90D0B31190C0050044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0B61190C0450044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 87";
+		rLen = 0;
+		rLoc = 4226;
+		rType = 0;
+		vrLen = 1679;
+		vrLoc = 1661;
+	};
+	DD90D0B71190C0450044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0BA1190C05E0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 70";
+		rLen = 0;
+		rLoc = 2204;
+		rType = 0;
+		vrLen = 1679;
+		vrLoc = 1661;
+	};
+	DD90D0BB1190C05E0044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0BE1190C0680044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 69";
+		rLen = 1;
+		rLoc = 2169;
+		rType = 0;
+		vrLen = 1679;
+		vrLoc = 1661;
+	};
+	DD90D0BF1190C0680044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0C21190C0820044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 62";
+		rLen = 0;
+		rLoc = 1819;
+		rType = 0;
+		vrLen = 1726;
+		vrLoc = 1584;
+	};
+	DD90D0C31190C0820044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0C61190C0890044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 62";
+		rLen = 0;
+		rLoc = 1819;
+		rType = 0;
+		vrLen = 1726;
+		vrLoc = 1584;
+	};
+	DD90D0C71190C0890044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0CA1190C0930044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 62";
+		rLen = 0;
+		rLoc = 1819;
+		rType = 0;
+		vrLen = 1726;
+		vrLoc = 1584;
+	};
+	DD90D0CB1190C0930044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0CE1190C0AF0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 62";
+		rLen = 0;
+		rLoc = 1819;
+		rType = 0;
+		vrLen = 1726;
+		vrLoc = 1584;
+	};
+	DD90D0CF1190C0AF0044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0D21190C0D90044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 52";
+		rLen = 0;
+		rLoc = 1523;
+		rType = 0;
+		vrLen = 1854;
+		vrLoc = 1062;
+	};
+	DD90D0D31190C0D90044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0D61190C1060044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 51";
+		rLen = 0;
+		rLoc = 1460;
+		rType = 0;
+		vrLen = 1854;
+		vrLoc = 1062;
+	};
+	DD90D0D71190C1060044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0DB1190C1350044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 51";
+		rLen = 0;
+		rLoc = 1460;
+		rType = 0;
+		vrLen = 1854;
+		vrLoc = 1062;
+	};
+	DD90D0DC1190C1350044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0DF1190C14B0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 52";
+		rLen = 0;
+		rLoc = 1523;
+		rType = 0;
+		vrLen = 1854;
+		vrLoc = 1062;
+	};
+	DD90D0E01190C14B0044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0E31190C1760044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 70";
+		rLen = 0;
+		rLoc = 2204;
+		rType = 0;
+		vrLen = 1852;
+		vrLoc = 1062;
+	};
+	DD90D0E41190C1760044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0E91190C6DC0044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD90D0251190B3330044261B /* slider-reverse-empty.png */;
+	};
+	DD90D0EA1190C6DC0044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD90D0241190B3330044261B /* slider-reverse-full.png */;
+	};
+	DD90D0EB1190C6DC0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDD6A535118A41C3003B54C6 /* WiDrive_SocketViewController.h */;
+		name = "WiDrive_SocketViewController.h: 35";
+		rLen = 0;
+		rLoc = 907;
+		rType = 0;
+		vrLen = 1479;
+		vrLoc = 3;
+	};
+	DD90D0EC1190C6DC0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 70";
+		rLen = 0;
+		rLoc = 2204;
+		rType = 0;
+		vrLen = 1918;
+		vrLoc = 1062;
+	};
+	DD90D0ED1190C6DC0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 52";
+		rLen = 0;
+		rLoc = 1519;
+		rType = 0;
+		vrLen = 1912;
+		vrLoc = 1084;
+	};
+	DD90D0EE1190C6DC0044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0F11190C6E70044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 52";
+		rLen = 0;
+		rLoc = 1519;
+		rType = 0;
+		vrLen = 1992;
+		vrLoc = 1084;
+	};
+	DD90D0F21190C6E70044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D0FF1190CB790044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDD6A535118A41C3003B54C6 /* WiDrive_SocketViewController.h */;
+		name = "WiDrive_SocketViewController.h: 26";
+		rLen = 0;
+		rLoc = 757;
+		rType = 0;
+		vrLen = 1474;
+		vrLoc = 0;
+	};
+	DD90D1001190CB790044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 78";
+		rLen = 0;
+		rLoc = 2923;
+		rType = 0;
+		vrLen = 1942;
+		vrLoc = 2073;
+	};
+	DD90D1011190CB790044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 129";
+		rLen = 0;
+		rLoc = 4976;
+		rType = 0;
+		vrLen = 1625;
+		vrLoc = 2658;
+	};
+	DD90D1021190CB790044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D1051190CB940044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 80";
+		rLen = 0;
+		rLoc = 3050;
+		rType = 0;
+		vrLen = 2127;
+		vrLoc = 1594;
+	};
+	DD90D1061190CB940044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D1091190CBF50044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 76";
+		rLen = 0;
+		rLoc = 2866;
+		rType = 0;
+		vrLen = 2127;
+		vrLoc = 1594;
+	};
+	DD90D10A1190CBF50044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D10D1190CC2F0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 93";
+		rLen = 0;
+		rLoc = 3622;
+		rType = 0;
+		vrLen = 2114;
+		vrLoc = 1759;
+	};
+	DD90D10E1190CC2F0044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D1111190CC4C0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 93";
+		rLen = 0;
+		rLoc = 3622;
+		rType = 0;
+		vrLen = 2155;
+		vrLoc = 1596;
+	};
+	DD90D1121190CC4C0044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D1151190CC9C0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 93";
+		rLen = 0;
+		rLoc = 3622;
+		rType = 0;
+		vrLen = 2110;
+		vrLoc = 1759;
+	};
+	DD90D1161190CC9C0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 98";
+		rLen = 0;
+		rLoc = 4035;
+		rType = 0;
+		vrLen = 2322;
+		vrLoc = 1170;
+	};
+	DD90D1171190CC9C0044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D11A1190CCAE0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 69";
+		rLen = 0;
+		rLoc = 2310;
+		rType = 0;
+		vrLen = 2322;
+		vrLoc = 1170;
+	};
+	DD90D11B1190CCAE0044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D11E1190CCC90044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 59";
+		rLen = 0;
+		rLoc = 1902;
+		rType = 0;
+		vrLen = 2350;
+		vrLoc = 1170;
+	};
+	DD90D11F1190CCC90044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D1221190CCE60044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 106";
+		rLen = 0;
+		rLoc = 4226;
+		rType = 0;
+		vrLen = 1872;
+		vrLoc = 2173;
+	};
+	DD90D1231190CCE60044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D1251190D2DA0044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DDE4E06C118F1A3F00BC2D90 /* flags.png */;
+	};
+	DD90D1261190D2DA0044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD90D0251190B3330044261B /* slider-reverse-empty.png */;
+	};
+	DD90D1271190D2DA0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDD6A535118A41C3003B54C6 /* WiDrive_SocketViewController.h */;
+		name = "WiDrive_SocketViewController.h: 26";
+		rLen = 0;
+		rLoc = 757;
+		rType = 0;
+		vrLen = 1432;
+		vrLoc = 184;
+	};
+	DD90D1281190D2DA0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 113";
+		rLen = 0;
+		rLoc = 4292;
+		rType = 0;
+		vrLen = 1923;
+		vrLoc = 2452;
+	};
+	DD90D1291190D2DA0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 113";
+		rLen = 0;
+		rLoc = 4437;
+		rType = 0;
+		vrLen = 1921;
+		vrLoc = 2454;
+	};
+	DD90D12A1190D2DA0044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D12B1190D3460044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 114";
+		rLen = 0;
+		rLoc = 4437;
+		rType = 0;
+		vrLen = 1993;
+		vrLoc = 2454;
+	};
+	DD90D12C1190D3460044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D1371190D3EF0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 73";
+		rLen = 0;
+		rLoc = 2567;
+		rType = 0;
+		vrLen = 2443;
+		vrLoc = 1677;
+	};
+	DD90D1381190D3EF0044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D13D1190D7800044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 118";
+		rLen = 0;
+		rLoc = 4393;
+		rType = 0;
+		vrLen = 1748;
+		vrLoc = 3002;
+	};
+	DD90D13E1190D7800044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D1521190D9CA0044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD90D1401190D7870044261B /* handbrake-off.png */;
+	};
+	DD90D1531190D9CA0044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD90D1411190D7870044261B /* handbrake-on.png */;
+	};
+	DD90D1541190D9CA0044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD90D1421190D7870044261B /* indicator-left-off.png */;
+	};
+	DD90D1551190D9CA0044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD90D1431190D7870044261B /* indicator-left-on.png */;
+	};
+	DD90D1561190D9CA0044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD90D1441190D7870044261B /* indicator-right-off.png */;
+	};
+	DD90D1571190D9CA0044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD90D1451190D7870044261B /* indicator-right-on.png */;
+	};
+	DD90D1581190D9CA0044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD90D0F31190CA1F0044261B /* slider-forward-empty.png */;
+	};
+	DD90D1591190D9CA0044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD90D0F41190CA1F0044261B /* slider-forward-full.png */;
+	};
+	DD90D15A1190D9CA0044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD90D0241190B3330044261B /* slider-reverse-full.png */;
+	};
+	DD90D15B1190D9CA0044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD90D0251190B3330044261B /* slider-reverse-empty.png */;
+	};
+	DD90D15C1190D9CA0044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD18BA80118919A200156C3E /* background.png */;
+	};
+	DD90D15D1190D9CA0044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DDD6A4D3118A3497003B54C6 /* button-stop.png */;
+	};
+	DD90D15E1190D9CA0044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD90D0A71190BF7A0044261B /* slider.png */;
+	};
+	DD90D15F1190D9CA0044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD90D09F1190BEC00044261B /* slider-active.png */;
+	};
+	DD90D1601190D9CA0044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DDE4E06C118F1A3F00BC2D90 /* flags.png */;
+	};
+	DD90D1611190D9CA0044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DDE4E259118F8DAF00BC2D90 /* dial.png */;
+	};
+	DD90D1621190D9CA0044261B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DDE4E298118F981900BC2D90 /* icon.png */;
+	};
+	DD90D1631190D9CA0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 118";
+		rLen = 0;
+		rLoc = 4393;
+		rType = 0;
+		vrLen = 1689;
+		vrLoc = 3162;
+	};
+	DD90D1641190D9CA0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDD6A535118A41C3003B54C6 /* WiDrive_SocketViewController.h */;
+		name = "WiDrive_SocketViewController.h: 26";
+		rLen = 0;
+		rLoc = 757;
+		rType = 0;
+		vrLen = 1428;
+		vrLoc = 184;
+	};
+	DD90D1651190D9CA0044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDD6A535118A41C3003B54C6 /* WiDrive_SocketViewController.h */;
+		name = "WiDrive_SocketViewController.h: 56";
+		rLen = 0;
+		rLoc = 1682;
+		rType = 0;
+		vrLen = 1599;
+		vrLoc = 184;
+	};
+	DD90D1661190D9CA0044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D16A1190DC330044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 195";
+		rLen = 0;
+		rLoc = 6159;
+		rType = 0;
+		vrLen = 1413;
+		vrLoc = 5634;
+	};
+	DD90D16B1190DC330044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDD6A535118A41C3003B54C6 /* WiDrive_SocketViewController.h */;
+		name = "WiDrive_SocketViewController.h: 38";
+		rLen = 13;
+		rLoc = 997;
+		rType = 0;
+		vrLen = 1622;
+		vrLoc = 160;
+	};
+	DD90D16C1190DC330044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD04B6551175196F0024BDDE /* Car.h */;
+		name = "Car.h: 31";
+		rLen = 0;
+		rLoc = 633;
+		rType = 0;
+		vrLen = 639;
+		vrLoc = 0;
+	};
+	DD90D16D1190DC330044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD04B6561175196F0024BDDE /* Car.m */;
+		name = "Car.m: 75";
+		rLen = 0;
+		rLoc = 1782;
+		rType = 0;
+		vrLen = 1100;
+		vrLoc = 836;
+	};
+	DD90D16E1190DC330044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD04B6561175196F0024BDDE /* Car.m */;
+		name = "Car.m: 24";
+		rLen = 30;
+		rLoc = 461;
+		rType = 0;
+		vrLen = 1124;
+		vrLoc = 161;
+	};
+	DD90D16F1190DC330044261B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DD90D17A1190E2100044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Duplicate member 'reverseSlider'";
+		fRef = DDD6A535118A41C3003B54C6 /* WiDrive_SocketViewController.h */;
+		rLen = 1;
+		rLoc = 25;
+		rType = 1;
+	};
+	DD90D17B1190E2100044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDD6A535118A41C3003B54C6 /* WiDrive_SocketViewController.h */;
+		name = "WiDrive_SocketViewController.h: 26";
+		rLen = 0;
+		rLoc = 757;
+		rType = 0;
+		vrLen = 914;
+		vrLoc = 536;
+	};
+	DD90D17C1190E2120044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDD6A535118A41C3003B54C6 /* WiDrive_SocketViewController.h */;
+		name = "WiDrive_SocketViewController.h: 26";
+		rLen = 0;
+		rLoc = 757;
+		rType = 0;
+		vrLen = 865;
+		vrLoc = 536;
+	};
+	DD90D17D1190E2140044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD04B6561175196F0024BDDE /* Car.m */;
+		name = "Car.m: 49";
+		rLen = 0;
+		rLoc = 1080;
+		rType = 0;
+		vrLen = 1240;
+		vrLoc = 161;
+	};
+	DD90D17E1190E2140044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDD6A535118A41C3003B54C6 /* WiDrive_SocketViewController.h */;
+		name = "WiDrive_SocketViewController.h: 38";
+		rLen = 13;
+		rLoc = 997;
+		rType = 0;
+		vrLen = 1623;
+		vrLoc = 159;
+	};
+	DD90D17F1190E2140044261B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 257";
+		rLen = 0;
+		rLoc = 8256;
+		rType = 0;
+		vrLen = 1332;
+		vrLoc = 7626;
+	};
+	DD99769411920F60003FF6C7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD99769511920F60003FF6C7 /* gavinwilliams.pbxuser */;
+		name = "gavinwilliams.pbxuser: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1333;
+		vrLoc = 0;
+	};
+	DD99769511920F60003FF6C7 /* gavinwilliams.pbxuser */ = {
+		isa = PBXFileReference;
+		name = gavinwilliams.pbxuser;
+		path = "/Users/gavinwilliams/Documents/Uni/BAIMPH/Major/WiDrive-Socket/WiDrive-Socket.xcodeproj/gavinwilliams.pbxuser";
+		sourceTree = "<absolute>";
+	};
+	DD99769611920F60003FF6C7 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD99769911920F60003FF6C7 /* project.pbxproj */;
+	};
+	DD99769711920F60003FF6C7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD99769811920F60003FF6C7 /* project.pbxproj */;
+		name = "project.pbxproj: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 5298;
+		vrLoc = 0;
+	};
+	DD99769811920F60003FF6C7 /* project.pbxproj */ = {
+		isa = PBXFileReference;
+		name = project.pbxproj;
+		path = "/Users/gavinwilliams/Documents/Uni/BAIMPH/Major/WiDrive-Socket/WiDrive-Socket.xcodeproj/project.pbxproj";
+		sourceTree = "<absolute>";
+	};
+	DD99769911920F60003FF6C7 /* project.pbxproj */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.pbxproject;
+		name = project.pbxproj;
+		path = "/Users/gavinwilliams/Documents/Uni/BAIMPH/Major/WiDrive-Socket/WiDrive-Socket.xcodeproj/project.pbxproj";
+		sourceTree = "<absolute>";
+	};
+	DDC55ECD113FF2210099D6C0 /* stack.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = stack.c;
+		path = /Applications/Arduino.app/Contents/Resources/Java/hardware/libraries/WiShield/stack.c;
+		sourceTree = "<absolute>";
+	};
+	DDC561FB11411D7D0099D6C0 /* AsyncSocket.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1566, 8411}}";
+			sepNavSelRange = "{7408, 11}";
+			sepNavVisRange = "{6672, 1520}";
+			sepNavWindowFrame = "{{2439, 0}, {880, 1200}}";
+		};
+	};
+	DDC561FC11411D7D0099D6C0 /* AsyncSocket.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1861, 49361}}";
+			sepNavSelRange = "{111623, 0}";
+			sepNavVisRange = "{45274, 3313}";
+			sepNavWindowFrame = "{{1920, 0}, {1920, 1200}}";
+		};
+	};
+	DDC562D111414D150099D6C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDC562D211414D150099D6C0 /* main.c */;
+		name = "main.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1601;
+		vrLoc = 0;
+	};
+	DDC562D211414D150099D6C0 /* main.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = main.c;
+		path = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/SocketClient/main.c";
+		sourceTree = "<absolute>";
+	};
+	DDC562D311414D150099D6C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDC562D411414D150099D6C0 /* main.cpp */;
+		name = "main.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 143;
+		vrLoc = 0;
+	};
+	DDC562D411414D150099D6C0 /* main.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = main.cpp;
+		path = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/Untitled/main.cpp";
+		sourceTree = "<absolute>";
+	};
+	DDD6A535118A41C3003B54C6 /* WiDrive_SocketViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1336, 884}}";
+			sepNavSelRange = "{757, 0}";
+			sepNavVisRange = "{536, 865}";
+		};
+	};
+	DDD7717E119079D70030C7F5 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DDE4E259118F8DAF00BC2D90 /* dial.png */;
+	};
+	DDD7717F119079D70030C7F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD04B6551175196F0024BDDE /* Car.h */;
+		name = "Car.h: 31";
+		rLen = 0;
+		rLoc = 633;
+		rType = 0;
+		vrLen = 639;
+		vrLoc = 0;
+	};
+	DDD77180119079D70030C7F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD04B6561175196F0024BDDE /* Car.m */;
+		name = "Car.m: 75";
+		rLen = 0;
+		rLoc = 1782;
+		rType = 0;
+		vrLen = 1121;
+		vrLoc = 815;
+	};
+	DDD77182119079D70030C7F5 /* VirtualMazeViewController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = VirtualMazeViewController.m;
+		path = /Users/gavinwilliams/Downloads/VirtualMazeViewController.m;
+		sourceTree = "<absolute>";
+	};
+	DDD77183119079D70030C7F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* WiDrive_SocketAppDelegate.h */;
+		name = "WiDrive_SocketAppDelegate.h: 11";
+		rLen = 28;
+		rLoc = 189;
+		rType = 0;
+		vrLen = 518;
+		vrLoc = 0;
+	};
+	DDD77184119079D70030C7F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* WiDrive_SocketAppDelegate.m */;
+		name = "WiDrive_SocketAppDelegate.m: 29";
+		rLen = 0;
+		rLoc = 646;
+		rType = 0;
+		vrLen = 707;
+		vrLoc = 0;
+	};
+	DDD7719A119080300030C7F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDD77182119079D70030C7F5 /* VirtualMazeViewController.m */;
+		name = "VirtualMazeViewController.m: 79";
+		rLen = 543;
+		rLoc = 2136;
+		rType = 0;
+		vrLen = 1597;
+		vrLoc = 1697;
+	};
+	DDD7719B119080300030C7F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		name = "WiDrive_SocketViewController.m: 150";
+		rLen = 0;
+		rLoc = 8034;
+		rType = 0;
+		vrLen = 1863;
+		vrLoc = 3083;
+	};
+	DDD7719C119080300030C7F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDD6A535118A41C3003B54C6 /* WiDrive_SocketViewController.h */;
+		name = "WiDrive_SocketViewController.h: 36";
+		rLen = 0;
+		rLoc = 1106;
+		rType = 0;
+		vrLen = 1447;
+		vrLoc = 57;
+	};
+	DDD7719D119080300030C7F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDD6A535118A41C3003B54C6 /* WiDrive_SocketViewController.h */;
+		name = "WiDrive_SocketViewController.h: 36";
+		rLen = 0;
+		rLoc = 1106;
+		rType = 0;
+		vrLen = 1446;
+		vrLoc = 57;
+	};
+	DDE4E077118F1E8400BC2D90 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDC561FB11411D7D0099D6C0 /* AsyncSocket.h */;
+		name = "AsyncSocket.h: 181";
+		rLen = 11;
+		rLoc = 7408;
+		rType = 0;
+		vrLen = 1520;
+		vrLoc = 6672;
+	};
+	DDE4E078118F1E8400BC2D90 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DDC561FC11411D7D0099D6C0 /* AsyncSocket.m */;
+		name = "AsyncSocket.m: 925";
+		rLen = 0;
+		rLoc = 27853;
+		rType = 0;
+		vrLen = 1520;
+		vrLoc = 53570;
+	};
+	DDE4E09A118F2BD100BC2D90 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DD18BA4A1189106700156C3E /* steering-wheel.png */;
+	};
+	DDE4E0B4118F2C9000BC2D90 /* WiDrive_SocketViewController.m:168 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* WiDrive_SocketViewController.m */;
+		functionName = "-start:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 168;
+		location = "WiDrive-Socket";
+		modificationTime = 294595758.417235;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	DDE4E15F118F492900BC2D90 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* WiDrive_Socket_Prefix.pch */;
+		name = "WiDrive_Socket_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 197;
+		vrLoc = 0;
+	};
+	DDE4E183118F4B6600BC2D90 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DDE4E06C118F1A3F00BC2D90 /* flags.png */;
+	};
+	DDE4E25D118F8E5900BC2D90 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DDD6A4D1118A3310003B54C6 /* button-start.png */;
+	};
+	DDE4E25F118F8E5900BC2D90 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 18";
+		rLen = 0;
+		rLoc = 365;
+		rType = 0;
+		vrLen = 365;
+		vrLoc = 0;
+	};
+	DDE4E2AC118F9D6B00BC2D90 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WiDrive_Socket-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/gavinwilliams/Documents/Uni/BAIMPI/Major Files/Clients/WiDrive/WiDrive_Socket-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DDE4E331118FAE0C00BC2D90 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = DDE4E23E118F890600BC2D90 /* speedo.png */;
+	};
+}
